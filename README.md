@@ -1,10 +1,12 @@
-# newextension README
+# README
 
-This is the README for your extension "newextension". After writing up a brief description, we recommend including the following sections.
+This is the README for my "juanse vs extension".
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+### minifyJson 
+
+This feature deletes all the spaces and line breaks from a json text selected.
 
 For example if there is an image subfolder under your extension project workspace:
 

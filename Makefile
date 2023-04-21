@@ -24,3 +24,7 @@ pretest:
 lint:
 	@echo "Linting $(PROJECT_NAME)..."
 	@npm run lint
+
+package:
+	@echo "Packaging $(PROJECT_NAME)..."
+	@vsce package
